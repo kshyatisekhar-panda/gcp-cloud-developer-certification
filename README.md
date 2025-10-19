@@ -1,4 +1,4 @@
-# ☁️ Google Cloud Professional Cloud Developer – Study Tracker
+# ☁️ Google Cloud Professional Cloud Developer Certification
 
 Welcome! This repository documents my complete preparation journey for the  
 **Google Cloud Certified – Professional Cloud Developer** exam 🎯
