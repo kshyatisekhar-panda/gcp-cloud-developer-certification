@@ -33,14 +33,14 @@ It includes tasks, labs, and revision checkpoints for every week.
 
 | Week | Focus Area | Objective |
 |------|-------------|-----------|
-| [Week 1](./notes/week1.md) | GCP Foundations & Prerequisites | Build GCP fundamentals, IAM, CLI, and basic deployments |
-| [Week 2](./notes/week2.md) | Compute & Kubernetes | Learn GKE, Cloud Run, App Engine, deployments |
-| [Week 3](./notes/week3.md) | Databases & Storage | Practice Firestore, Cloud SQL, Cloud Storage integrations |
-| [Week 4](./notes/week4.md) | CI/CD & Testing | Automate builds with Cloud Build and testing pipelines |
-| [Week 5](./notes/week5.md) | Security & IAM | Secure workloads, use Secret Manager, service accounts |
-| [Week 6](./notes/week6.md) | Monitoring & Debugging | Cloud Monitoring, Logging, Error Reporting, tracing |
-| [Week 7](./notes/week7.md) | Architecture & Integration | Microservices, Pub/Sub, resilience, event-driven design |
-| [Week 8](./notes/week8.md) | Mock Exams & Final Review | Practice exams, final revisions, and exam booking |
+| [Week 1](./notes/week-1-note.md) | GCP Foundations & Prerequisites | Build GCP fundamentals, IAM, CLI, and basic deployments |
+| [Week 2](./notes/week-2-note.md) | Compute & Kubernetes | Learn GKE, Cloud Run, App Engine, deployments |
+| [Week 3](./notes/week-3-note.md) | Databases & Storage | Practice Firestore, Cloud SQL, Cloud Storage integrations |
+| [Week 4](./notes/week-4-note.md) | CI/CD & Testing | Automate builds with Cloud Build and testing pipelines |
+| [Week 5](./notes/week-5-note.md) | Security & IAM | Secure workloads, use Secret Manager, service accounts |
+| [Week 6](./notes/week-6-note.md) | Monitoring & Debugging | Cloud Monitoring, Logging, Error Reporting, tracing |
+| [Week 7](./notes/week-7-note.md) | Architecture & Integration | Microservices, Pub/Sub, resilience, event-driven design |
+| [Week 8](./notes/week-8-note.md) | Mock Exams & Final Review | Practice exams, final revisions, and exam booking |
 
 ---
 
