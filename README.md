@@ -59,7 +59,7 @@ gcp-cloud-developer-certification/
 ## 🧑‍💻 Author
 **Kshyatisekhar Panda**  
 Full Stack Developer • Cloud Enthusiast • Kubernetes Practitioner  
-📧 [kshyatisekhar.panda@travsport.se](mailto:kshyatisekhar.panda@travsport.se)
+📧 [kshyatisekhar.dev@gmail.com](mailto:kshyatisekhar.dev@gmail.com)
 
 
 ### ⭐ If you find this useful…
