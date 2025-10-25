@@ -1,0 +1,17 @@
+{
+    "name": "node-express-service",
+    "version": "1.0.0",
+    "description": "Node.js Express service running on Google Cloud Run",
+    "main": "server.js",
+    "type": "module",
+    "scripts": {
+      "start": "node server.js"
+    },
+    "dependencies": {
+      "express": "^4.18.2"
+    },
+    "engines": {
+      "node": ">=18.0.0"
+    }
+  }
+  
