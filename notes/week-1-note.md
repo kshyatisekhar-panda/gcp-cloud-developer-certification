@@ -1,4 +1,4 @@
-# Week 1 — Cloud Run Deployment Summary
+# Week 1 - Cloud Run Deployment Summary
 
 ## Overview
 Week 1 focused on setting up Google Cloud Platform (GCP), installing the Cloud SDK, and deploying a live Node.js Express application using Cloud Run.  
