@@ -15,17 +15,24 @@ If you’re also preparing, feel free to explore or fork this repo for your own 
 ---
 
 ## 🧭 Quick Navigation
-| Section | Description |
+
+### 📖 Weekly Notes
+| Week | Topic | Notes | Quiz |
+|------|-------|-------|------|
+| Week 1 | GCP Foundations | [Notes](./notes/week-1-note.md) | — |
+| Week 2 | Compute & Kubernetes | [Notes](./notes/week-2-note.md) | [Quiz](./quizes/compute-service-quize.md) |
+| Week 3 | Databases & Storage | [Notes](./notes/week-3-note.md) | [Quiz](./quizes/cloud-storage-quize.md) |
+| Week 4 | CI/CD & Testing | [Notes](./notes/week-4-note.md) | [Quiz](./quizes/cicd-testing-quiz.md) |
+| Week 5 | Security, IAM & Networking | [Notes](./notes/week-5-note.md) | [Quiz](./quizes/security-iam-quiz.md) / [Networking Quiz](./quizes/networking-security-quiz.md) |
+| Week 6 | Monitoring & Debugging | [Notes](./notes/week-6-note.md) | [Quiz](./quizes/monitoring-debugging-quiz.md) |
+| Week 7 | Architecture & Integration | [Notes](./notes/week-7-note.md) | [Quiz](./quizes/architecture-integration-quiz.md) |
+| Week 8 | Mock Exams & Review | [Notes](./notes/week-8-note.md) | [Comprehensive Quiz](./quizes/comprehensive-exam-quiz.md) |
+
+### 🎯 Quick Reference
+| Resource | Description |
 |----------|-------------|
-| [Roadmap & Weekly Plan](./roadmap.md) | My full 8-week roadmap with links, tasks, and revision notes |
-| [Week 1 – GCP Foundations](./week1.md) | Setup, fundamentals, and initial labs |
-| [Week 2 – Compute & Kubernetes](./week2.md) | GKE, Cloud Run, deployments |
-| [Week 3 – Databases & Storage](./week3.md) | Firestore, Cloud SQL, Cloud Storage |
-| [Week 4 – CI/CD & Testing](./week4.md) | Cloud Build, pipelines, and testing |
-| [Week 5 – Security & IAM](./week5.md) | IAM roles, permissions, Secret Manager |
-| [Week 6 – Monitoring & Debugging](./week6.md) | Cloud Monitoring, Logging, tracing |
-| [Week 7 – Architecture & Integration](./week7.md) | Microservices, event-driven patterns |
-| [Week 8 – Mock Exams & Review](./week8.md) | Final prep and exam simulations |
+| [Roadmap & Weekly Plan](./roadmap.md) | Full 8-week roadmap with tasks and revision notes |
+| [Exam Cheat Sheet](./notes/exam-cheatsheet.md) | Mental models, decision trees, instant-answer questions |
 
 ---
 
@@ -49,10 +56,32 @@ If you’re also preparing, feel free to explore or fork this repo for your own 
 ```text
 gcp-cloud-developer-certification/
 │
-├── README.md              ← this file (intro + navigation)
-├── roadmap.md             ← full 8-week plan & checklist
-├── week1.md → week8.md    ← detailed weekly progress & notes
-└── resources/             ← optional folder for PDFs, links, and notes
+├── README.md                    ← this file (intro + navigation)
+├── roadmap.md                   ← full 8-week plan & checklist
+│
+├── notes/
+│   ├── week-1-note.md           ← GCP Foundations & Cloud Run
+│   ├── week-2-note.md           ← Compute & Kubernetes
+│   ├── week-3-note.md           ← Databases & Storage
+│   ├── week-4-note.md           ← CI/CD & Testing
+│   ├── week-5-note.md           ← Security, IAM & Networking
+│   ├── week-6-note.md           ← Monitoring & Debugging
+│   ├── week-7-note.md           ← Architecture & Integration
+│   ├── week-8-note.md           ← Mock Exams & Final Review
+│   └── exam-cheatsheet.md       ← Quick revision cheat sheet
+│
+├── quizes/
+│   ├── compute-service-quize.md     ← Week 2 quiz
+│   ├── cloud-storage-quize.md       ← Week 3 quiz
+│   ├── cicd-testing-quiz.md         ← Week 4 quiz
+│   ├── security-iam-quiz.md         ← Week 5 quiz
+│   ├── networking-security-quiz.md  ← Week 5 networking quiz
+│   ├── monitoring-debugging-quiz.md ← Week 6 quiz
+│   ├── architecture-integration-quiz.md ← Week 7 quiz
+│   └── comprehensive-exam-quiz.md   ← Week 8 comprehensive quiz
+│
+└── resources/
+    └── services/                ← Sample apps for testing
 ```
 
 ---
